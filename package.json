@@ -1,0 +1,36 @@
+{
+  "name": "is-keyword",
+  "version": "0.1.0",
+  "description": "Checks if the given token is an ES keyword.",
+  "license": "MIT",
+  "repository": "hemanth/is-keyword",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "browser": "browserify -s $npm_package_name -o browser.js ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "type",
+    "detect",
+    "check",
+    "is",
+    "keyword",
+    "keywords",
+    "ES"
+  ],
+  "devDependencies": {
+    "browserify": "^3.0.0",
+    "mocha": "*",
+    "read-chunk": "^0.1.0"
+  }
+}

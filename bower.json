@@ -1,0 +1,27 @@
+{
+  "name": "is-keyword",
+  "description": "Checks if the given token is an ES keyword.",
+  "license": "MIT",
+  "main": "browser.js",
+  "authors": [{
+    "name": "Hemanth.HM",
+    "email": "hemath.hm@gmail.com",
+    "url": "http://h3manth.com"
+  }],
+  "keywords": [
+    "type",
+    "detect",
+    "check",
+    "is",
+    "keyword",
+    "keywords",
+    "ES"
+  ],
+  "ignore": [
+    ".*",
+    "test.js",
+    "component.json",
+    "package.json",
+    "fixture*"
+  ]
+}
