@@ -1,6 +1,6 @@
 {
   "name": "is-keyword",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Checks if the given token is an ES keyword.",
   "license": "MIT",
   "repository": "hemanth/is-keyword",
